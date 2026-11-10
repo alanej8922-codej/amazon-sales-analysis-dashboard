@@ -2,7 +2,7 @@
 
 A Power BI dashboard that analyzes year-to-date sales, product performance and customer reviews for Amazon products across multiple categories.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Objective
 Track sales performance over time, identify the best-selling categories and products, and understand which products receive the most customer reviews.
